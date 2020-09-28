@@ -1,0 +1,1 @@
+https://medium.com/@mmarcosab/crud-em-api-rest-com-spring-boot-h2-maven-e-jpa-hibernate-e-documenta%C3%A7%C3%A3o-com-swagger-parte-1-1040e2aae0ed
